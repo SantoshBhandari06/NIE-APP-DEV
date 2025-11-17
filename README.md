@@ -8,3 +8,6 @@ using react native ...
 
 Hi how are you 
 how you doing
+
+
+So I committed the change
