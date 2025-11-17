@@ -6,4 +6,5 @@ We will have 5 days of learning
 Day  1: Setup, Say hi to android  app dev
 using react native ...
 
-Hi how are you
+Hi how are you 
+how you doing
